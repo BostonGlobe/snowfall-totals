@@ -24,7 +24,7 @@ var southWest = new L.LatLng(30.8, -85.7),
 	bounds = new L.LatLngBounds(southWest, northEast);
 
 // Add the snowfall image to the map.
-var imageLayer = L.imageOverlay('http://cache.boston.com/multimedia/graphics/projectFiles/2015/snowfall/snowfall.png', bounds).addTo(map);
+var imageLayer = L.imageOverlay('http://amzncache.boston.com/partners/maps/snowfall.png', bounds).addTo(map);
 
 // Create a Leaflet control for the legend.
 var MyControl = L.Control.extend({
@@ -56,8 +56,4 @@ var date = new Date();
 var hourDate = new Date(date.getFullYear(), date.getMonth(), date.getDate(), date.getHours());
 
 // Populate the 'updated' element.
-// $('.updated-timestamp').html('Updated ' + [APDateTime.time(hourDate), APDateTime.date(hourDate)].join(', '));
-
-// Populate the 'updated' element.
-$('.updated-timestamp').html('Updated 6 p.m., Jan. 27, 2015');
-
+$('.updated-timestamp').html('Updated ' + [APDateTime.time(hourDate), APDateTime.date(hourDate)].join(', '));
