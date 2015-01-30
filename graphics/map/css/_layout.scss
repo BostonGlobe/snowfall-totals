@@ -69,6 +69,7 @@
 
 	.leaflet-container {
 	    background: #FFF;
+		// background: #4d004b;
 	}
 
 	.leaflet-overlay-pane {
@@ -78,6 +79,25 @@
 	.leaflet-bar {
 		box-shadow: 0 0 1px rgba(0, 0, 0, 0.65);
 		border-radius: 1px;
+	}
+
+	.leaflet-marker-icon.snowfall {
+		text-align: center;
+
+		span {
+			@include adjust-font-size-to($s5);
+			// font-family: $sansSerifStrong;
+			color: black;
+			text-shadow: white 0 0 5px;
+		}
+
+		// .snowfall {
+		// 	color: white;
+		// }
+
+		// .time {
+		// 	color: white;
+		// }
 	}
 
 	.legend {

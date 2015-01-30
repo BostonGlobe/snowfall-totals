@@ -1,0 +1,3894 @@
+[
+    {
+        "latitude": "41.606100",
+        "longitude": "-73.118600",
+        "snowfall": "11.5",
+        "time": "10:45 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.848976",
+        "longitude": "-73.015136",
+        "snowfall": "7.0",
+        "time": "10:16 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.672500",
+        "longitude": "-73.073200",
+        "snowfall": "7.0",
+        "time": "11:48 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.744700",
+        "longitude": "-73.190100",
+        "snowfall": "6.5",
+        "time": "11:49 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.972219",
+        "longitude": "-73.226344",
+        "snowfall": "6.1",
+        "time": "9:55 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.502290",
+        "longitude": "-73.270870",
+        "snowfall": "8.0",
+        "time": "4:28 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.250524",
+        "longitude": "-73.124617",
+        "snowfall": "6.2",
+        "time": "10:15 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.198300",
+        "longitude": "-73.074500",
+        "snowfall": "6.0",
+        "time": "5:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.237840",
+        "longitude": "-73.356400",
+        "snowfall": "4.5",
+        "time": "10:16 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.597840",
+        "longitude": "-73.043570",
+        "snowfall": "4.4",
+        "time": "9:44 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.330800",
+        "longitude": "-73.079700",
+        "snowfall": "4.3",
+        "time": "5:22 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.287500",
+        "longitude": "-73.320800",
+        "snowfall": "4.0",
+        "time": "10:14 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.478555",
+        "longitude": "-73.275927",
+        "snowfall": "4.0",
+        "time": "10:16 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.478852",
+        "longitude": "-73.274056",
+        "snowfall": "3.5",
+        "time": "4:01 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.733410",
+        "longitude": "-73.072480",
+        "snowfall": "3.5",
+        "time": "4:21 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.702879",
+        "longitude": "-73.965771",
+        "snowfall": "8.1",
+        "time": "3:54 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.537470",
+        "longitude": "-73.904380",
+        "snowfall": "8.0",
+        "time": "10:16 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.726509",
+        "longitude": "-73.934015",
+        "snowfall": "7.0",
+        "time": "7:15 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.750190",
+        "longitude": "-73.748200",
+        "snowfall": "6.5",
+        "time": "4:02 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.668279",
+        "longitude": "-73.817054",
+        "snowfall": "6.4",
+        "time": "4:30 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.650360",
+        "longitude": "-73.792421",
+        "snowfall": "6.2",
+        "time": "10:04 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.726876",
+        "longitude": "-73.970343",
+        "snowfall": "6.1",
+        "time": "10:02 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.658212",
+        "longitude": "-73.806001",
+        "snowfall": "6.0",
+        "time": "4:29 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.660000",
+        "longitude": "-73.810000",
+        "snowfall": "6.0",
+        "time": "5:50 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.749111",
+        "longitude": "-73.801972",
+        "snowfall": "5.8",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.689440",
+        "longitude": "-73.829900",
+        "snowfall": "5.7",
+        "time": "10:03 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.646739",
+        "longitude": "-73.926286",
+        "snowfall": "5.5",
+        "time": "10:19 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.622800",
+        "longitude": "-73.968900",
+        "snowfall": "5.0",
+        "time": "5:15 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.612350",
+        "longitude": "-73.829580",
+        "snowfall": "5.0",
+        "time": "4:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.775000",
+        "longitude": "-73.711620",
+        "snowfall": "4.8",
+        "time": "3:53 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.469500",
+        "longitude": "-73.928300",
+        "snowfall": "4.8",
+        "time": "10:18 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.783100",
+        "longitude": "-73.744700",
+        "snowfall": "4.7",
+        "time": "6:06 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.718443",
+        "longitude": "-73.761985",
+        "snowfall": "4.4",
+        "time": "10:04 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.731700",
+        "longitude": "-74.144850",
+        "snowfall": "3.5",
+        "time": "4:15 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.547755",
+        "longitude": "-74.159243",
+        "snowfall": "2.9",
+        "time": "10:03 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.594986",
+        "longitude": "-74.215539",
+        "snowfall": "2.0",
+        "time": "9:51 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.255670",
+        "longitude": "-73.776820",
+        "snowfall": "6.0",
+        "time": "4:48 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.141242",
+        "longitude": "-73.721875",
+        "snowfall": "6.0",
+        "time": "5:10 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.154350",
+        "longitude": "-73.867400",
+        "snowfall": "5.8",
+        "time": "4:16 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.136740",
+        "longitude": "-73.767360",
+        "snowfall": "5.5",
+        "time": "4:01 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.391210",
+        "longitude": "-73.708690",
+        "snowfall": "5.4",
+        "time": "4:08 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.067922",
+        "longitude": "-73.529025",
+        "snowfall": "5.0",
+        "time": "2:19 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.045180",
+        "longitude": "-73.586400",
+        "snowfall": "4.6",
+        "time": "4:42 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.090870",
+        "longitude": "-73.675570",
+        "snowfall": "4.4",
+        "time": "3:58 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.608900",
+        "longitude": "-73.682200",
+        "snowfall": "5.3",
+        "time": "5:17 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.995600",
+        "longitude": "-73.876600",
+        "snowfall": "5.0",
+        "time": "9:57 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.690932",
+        "longitude": "-73.741038",
+        "snowfall": "5.0",
+        "time": "10:08 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.753576",
+        "longitude": "-73.653525",
+        "snowfall": "4.9",
+        "time": "10:07 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.558943",
+        "longitude": "-73.786489",
+        "snowfall": "4.2",
+        "time": "10:06 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.784300",
+        "longitude": "-73.934300",
+        "snowfall": "4.0",
+        "time": "9:49 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.059300",
+        "longitude": "-73.911100",
+        "snowfall": "4.0",
+        "time": "9:58 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.642284",
+        "longitude": "-73.892840",
+        "snowfall": "3.4",
+        "time": "10:07 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.587912",
+        "longitude": "-73.882727",
+        "snowfall": "3.0",
+        "time": "10:06 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.142660",
+        "longitude": "-74.137420",
+        "snowfall": "5.0",
+        "time": "3:59 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.144400",
+        "longitude": "-74.133300",
+        "snowfall": "5.0",
+        "time": "11:52 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.073169",
+        "longitude": "-74.141681",
+        "snowfall": "3.0",
+        "time": "5:08 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.143833",
+        "longitude": "-74.400162",
+        "snowfall": "0.1",
+        "time": "9:48 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.241500",
+        "longitude": "-74.146500",
+        "snowfall": "5.7",
+        "time": "9:47 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.216140",
+        "longitude": "-73.870920",
+        "snowfall": "5.5",
+        "time": "4:24 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.295558",
+        "longitude": "-73.940608",
+        "snowfall": "4.5",
+        "time": "4:17 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.415000",
+        "longitude": "-74.009280",
+        "snowfall": "4.0",
+        "time": "4:07 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.389998",
+        "longitude": "-73.980394",
+        "snowfall": "4.0",
+        "time": "10:08 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.359200",
+        "longitude": "-74.050300",
+        "snowfall": "3.8",
+        "time": "5:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.359185",
+        "longitude": "-73.991512",
+        "snowfall": "3.8",
+        "time": "10:08 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.411682",
+        "longitude": "-74.075158",
+        "snowfall": "3.0",
+        "time": "4:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.306647",
+        "longitude": "-74.011183",
+        "snowfall": "3.0",
+        "time": "4:29 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.134400",
+        "longitude": "-74.089200",
+        "snowfall": "2.3",
+        "time": "9:56 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.411683",
+        "longitude": "-74.075185",
+        "snowfall": "1.0",
+        "time": "5:43 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.894658",
+        "longitude": "-74.183586",
+        "snowfall": "4.2",
+        "time": "10:05 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.872740",
+        "longitude": "-74.406830",
+        "snowfall": "0.5",
+        "time": "9:54 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.856480",
+        "longitude": "-74.724840",
+        "snowfall": "0.3",
+        "time": "4:42 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.931700",
+        "longitude": "-74.628300",
+        "snowfall": "0.1",
+        "time": "10:09 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.765009",
+        "longitude": "-73.633659",
+        "snowfall": "5.5",
+        "time": "10:09 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.739154",
+        "longitude": "-73.425996",
+        "snowfall": "5.0",
+        "time": "6:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.640540",
+        "longitude": "-73.571586",
+        "snowfall": "5.0",
+        "time": "10:09 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.774914",
+        "longitude": "-73.643007",
+        "snowfall": "4.7",
+        "time": "4:16 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.914400",
+        "longitude": "-73.514200",
+        "snowfall": "2.0",
+        "time": "4:36 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.843200",
+        "longitude": "-73.626000",
+        "snowfall": "2.0",
+        "time": "9:53 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.195890",
+        "longitude": "-73.861180",
+        "snowfall": "4.5",
+        "time": "4:18 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.829340",
+        "longitude": "-73.820800",
+        "snowfall": "4.3",
+        "time": "5:04 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.060680",
+        "longitude": "-73.856897",
+        "snowfall": "4.2",
+        "time": "4:16 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.084097",
+        "longitude": "-73.775460",
+        "snowfall": "4.0",
+        "time": "4:52 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.195300",
+        "longitude": "-73.646300",
+        "snowfall": "3.5",
+        "time": "8:13 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.948160",
+        "longitude": "-73.937470",
+        "snowfall": "3.5",
+        "time": "9:20 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.910000",
+        "longitude": "-73.824200",
+        "snowfall": "3.2",
+        "time": "4:42 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.975240",
+        "longitude": "-73.793540",
+        "snowfall": "3.0",
+        "time": "4:35 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.268884",
+        "longitude": "-73.642659",
+        "snowfall": "3.0",
+        "time": "9:47 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.102000",
+        "longitude": "-73.580600",
+        "snowfall": "2.0",
+        "time": "6:40 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.801800",
+        "longitude": "-73.928100",
+        "snowfall": "7.0",
+        "time": "8:09 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.778400",
+        "longitude": "-73.954500",
+        "snowfall": "6.5",
+        "time": "8:39 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.810000",
+        "longitude": "-73.920000",
+        "snowfall": "6.5",
+        "time": "8:51 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.840700",
+        "longitude": "-73.967390",
+        "snowfall": "6.0",
+        "time": "3:54 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.820000",
+        "longitude": "-73.920000",
+        "snowfall": "6.0",
+        "time": "5:07 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.793778",
+        "longitude": "-74.088728",
+        "snowfall": "6.0",
+        "time": "5:16 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.767910",
+        "longitude": "-74.181840",
+        "snowfall": "4.0",
+        "time": "9:09 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.768175",
+        "longitude": "-74.157105",
+        "snowfall": "4.0",
+        "time": "9:46 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.765418",
+        "longitude": "-74.194563",
+        "snowfall": "2.0",
+        "time": "4:32 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.562544",
+        "longitude": "-74.232808",
+        "snowfall": "5.7",
+        "time": "4:18 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.569430",
+        "longitude": "-74.267220",
+        "snowfall": "5.0",
+        "time": "4:42 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.458790",
+        "longitude": "-74.581720",
+        "snowfall": "4.8",
+        "time": "4:35 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.666700",
+        "longitude": "-74.312900",
+        "snowfall": "4.5",
+        "time": "9:58 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.593378",
+        "longitude": "-74.594027",
+        "snowfall": "4.5",
+        "time": "10:12 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.520040",
+        "longitude": "-74.696060",
+        "snowfall": "3.0",
+        "time": "4:41 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.557090",
+        "longitude": "-74.608640",
+        "snowfall": "2.0",
+        "time": "5:16 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.668012",
+        "longitude": "-74.449712",
+        "snowfall": "2.0",
+        "time": "9:45 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.448850",
+        "longitude": "-74.466240",
+        "snowfall": "1.0",
+        "time": "6:27 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.065910",
+        "longitude": "-74.337540",
+        "snowfall": "4.2",
+        "time": "4:28 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.065219",
+        "longitude": "-74.345284",
+        "snowfall": "4.2",
+        "time": "9:56 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.973113",
+        "longitude": "-74.288388",
+        "snowfall": "4.0",
+        "time": "9:59 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.930100",
+        "longitude": "-73.997300",
+        "snowfall": "3.0",
+        "time": "9:50 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.028338",
+        "longitude": "-74.001516",
+        "snowfall": "3.0",
+        "time": "10:13 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.899575",
+        "longitude": "-73.974656",
+        "snowfall": "2.0",
+        "time": "7:40 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.108300",
+        "longitude": "-74.020300",
+        "snowfall": "2.0",
+        "time": "9:42 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.038800",
+        "longitude": "-74.110500",
+        "snowfall": "2.0",
+        "time": "10:01 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.113401",
+        "longitude": "-73.988712",
+        "snowfall": "1.5",
+        "time": "4:25 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.892740",
+        "longitude": "-74.076200",
+        "snowfall": "1.5",
+        "time": "9:58 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.930098",
+        "longitude": "-74.016764",
+        "snowfall": "1.3",
+        "time": "10:13 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.748200",
+        "longitude": "-74.081900",
+        "snowfall": "0.8",
+        "time": "9:54 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.919984",
+        "longitude": "-74.176636",
+        "snowfall": "0.7",
+        "time": "10:14 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.767200",
+        "longitude": "-74.158500",
+        "snowfall": "0.5",
+        "time": "9:54 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.697300",
+        "longitude": "-73.985700",
+        "snowfall": "8.3",
+        "time": "9:55 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.490050",
+        "longitude": "-73.786560",
+        "snowfall": "6.5",
+        "time": "6:52 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.358200",
+        "longitude": "-73.673700",
+        "snowfall": "5.0",
+        "time": "4:36 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.426098",
+        "longitude": "-73.732738",
+        "snowfall": "3.0",
+        "time": "10:22 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.692910",
+        "longitude": "-73.718710",
+        "snowfall": "1.5",
+        "time": "3:55 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.411900",
+        "longitude": "-73.332200",
+        "snowfall": "4.2",
+        "time": "5:40 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.306680",
+        "longitude": "-73.576650",
+        "snowfall": "3.5",
+        "time": "4:28 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.363278",
+        "longitude": "-73.390242",
+        "snowfall": "3.0",
+        "time": "4:48 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.296630",
+        "longitude": "-73.399060",
+        "snowfall": "3.0",
+        "time": "5:27 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.323100",
+        "longitude": "-73.320800",
+        "snowfall": "3.0",
+        "time": "9:55 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.993300",
+        "longitude": "-73.552800",
+        "snowfall": "2.4",
+        "time": "9:47 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.790833",
+        "longitude": "-73.232368",
+        "snowfall": "8.6",
+        "time": "4:14 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.291580",
+        "longitude": "-72.838540",
+        "snowfall": "6.5",
+        "time": "6:18 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.888640",
+        "longitude": "-73.012480",
+        "snowfall": "6.0",
+        "time": "8:21 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.162000",
+        "longitude": "-73.072000",
+        "snowfall": "5.0",
+        "time": "5:14 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.985077",
+        "longitude": "-72.556875",
+        "snowfall": "4.0",
+        "time": "10:17 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.076300",
+        "longitude": "-72.456000",
+        "snowfall": "3.6",
+        "time": "10:16 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.056881",
+        "longitude": "-72.900000",
+        "snowfall": "2.0",
+        "time": "4:35 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.166111",
+        "longitude": "-75.140278",
+        "snowfall": "1.8",
+        "time": "5:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.454700",
+        "longitude": "-75.067300",
+        "snowfall": "6.5",
+        "time": "11:31 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.583300",
+        "longitude": "-75.183300",
+        "snowfall": "3.1",
+        "time": "6:55 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.718408",
+        "longitude": "-74.983212",
+        "snowfall": "2.6",
+        "time": "6:45 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.700000",
+        "longitude": "-74.916667",
+        "snowfall": "2.0",
+        "time": "12:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.933300",
+        "longitude": "-74.916700",
+        "snowfall": "5.0",
+        "time": "4:30 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.631401",
+        "longitude": "-72.460297",
+        "snowfall": "22.0",
+        "time": "4:48 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.775799",
+        "longitude": "-72.521896",
+        "snowfall": "19.0",
+        "time": "11:43 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.714199",
+        "longitude": "-72.653099",
+        "snowfall": "14.5",
+        "time": "11:04 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.596401",
+        "longitude": "-72.878098",
+        "snowfall": "13.3",
+        "time": "9:20 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.719822",
+        "longitude": "-72.832043",
+        "snowfall": "12.3",
+        "time": "6:48 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.976101",
+        "longitude": "-72.592201",
+        "snowfall": "11.3",
+        "time": "9:18 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.809821",
+        "longitude": "-72.830654",
+        "snowfall": "10.0",
+        "time": "6:52 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.941208",
+        "longitude": "-72.727316",
+        "snowfall": "8.0",
+        "time": "6:53 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.769199",
+        "longitude": "-72.964996",
+        "snowfall": "8.0",
+        "time": "8:44 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.934804",
+        "longitude": "-72.645296",
+        "snowfall": "7.8",
+        "time": "12:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.953899",
+        "longitude": "-72.789200",
+        "snowfall": "7.0",
+        "time": "4:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.993900",
+        "longitude": "-72.259201",
+        "snowfall": "23.0",
+        "time": "9:01 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.871399",
+        "longitude": "-72.369202",
+        "snowfall": "21.5",
+        "time": "7:13 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.954201",
+        "longitude": "-72.302803",
+        "snowfall": "19.0",
+        "time": "10:30 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.985298",
+        "longitude": "-72.446701",
+        "snowfall": "16.4",
+        "time": "6:07 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.990930",
+        "longitude": "-72.157299",
+        "snowfall": "15.0",
+        "time": "6:49 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.770000",
+        "longitude": "-72.305603",
+        "snowfall": "15.0",
+        "time": "4:48 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.818709",
+        "longitude": "-72.479530",
+        "snowfall": "14.8",
+        "time": "6:49 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.958599",
+        "longitude": "-71.863098",
+        "snowfall": "33.5",
+        "time": "6:47 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.915098",
+        "longitude": "-71.908961",
+        "snowfall": "30.0",
+        "time": "6:50 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.985653",
+        "longitude": "-71.898683",
+        "snowfall": "25.0",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.849201",
+        "longitude": "-71.819199",
+        "snowfall": "24.2",
+        "time": "4:18 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.887199",
+        "longitude": "-71.962502",
+        "snowfall": "22.0",
+        "time": "7:58 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.802502",
+        "longitude": "-71.886398",
+        "snowfall": "21.5",
+        "time": "9:38 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.666778",
+        "longitude": "-70.116129",
+        "snowfall": "30.5",
+        "time": "9:15 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.652802",
+        "longitude": "-70.283302",
+        "snowfall": "27.0",
+        "time": "7:48 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.578300",
+        "longitude": "-70.559196",
+        "snowfall": "24.8",
+        "time": "10:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.686100",
+        "longitude": "-70.076401",
+        "snowfall": "23.0",
+        "time": "7:49 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.645802",
+        "longitude": "-70.618896",
+        "snowfall": "22.5",
+        "time": "10:55 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.648602",
+        "longitude": "-70.348602",
+        "snowfall": "21.0",
+        "time": "7:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.689400",
+        "longitude": "-70.156898",
+        "snowfall": "18.2",
+        "time": "7:28 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.789831",
+        "longitude": "-69.989740",
+        "snowfall": "17.6",
+        "time": "5:47 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.682056",
+        "longitude": "-69.959738",
+        "snowfall": "17.1",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.775002",
+        "longitude": "-70.958298",
+        "snowfall": "26.0",
+        "time": "4:58 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.701401",
+        "longitude": "-71.155602",
+        "snowfall": "24.1",
+        "time": "11:11 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.680599",
+        "longitude": "-70.908302",
+        "snowfall": "22.2",
+        "time": "6:05 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.636101",
+        "longitude": "-70.934700",
+        "snowfall": "21.0",
+        "time": "5:08 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.900101",
+        "longitude": "-71.089767",
+        "snowfall": "20.8",
+        "time": "4:16 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.033298",
+        "longitude": "-71.219398",
+        "snowfall": "19.8",
+        "time": "5:48 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.863899",
+        "longitude": "-71.125000",
+        "snowfall": "19.5",
+        "time": "8:39 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.637501",
+        "longitude": "-70.904198",
+        "snowfall": "19.0",
+        "time": "6:29 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.389005",
+        "longitude": "-70.513360",
+        "snowfall": "20.0",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.381100",
+        "longitude": "-70.675003",
+        "snowfall": "19.0",
+        "time": "10:53 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.726101",
+        "longitude": "-71.191399",
+        "snowfall": "31.5",
+        "time": "9:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.615929",
+        "longitude": "-70.661989",
+        "snowfall": "31.0",
+        "time": "8:35 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.470798",
+        "longitude": "-70.918098",
+        "snowfall": "30.4",
+        "time": "5:30 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.812591",
+        "longitude": "-70.877275",
+        "snowfall": "30.0",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.527802",
+        "longitude": "-70.929199",
+        "snowfall": "28.5",
+        "time": "11:21 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.679199",
+        "longitude": "-70.841698",
+        "snowfall": "28.0",
+        "time": "6:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.724998",
+        "longitude": "-70.991699",
+        "snowfall": "26.5",
+        "time": "8:35 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.637501",
+        "longitude": "-70.949997",
+        "snowfall": "26.5",
+        "time": "6:30 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.776100",
+        "longitude": "-71.077797",
+        "snowfall": "25.6",
+        "time": "11:59 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.426399",
+        "longitude": "-70.919403",
+        "snowfall": "25.0",
+        "time": "9:23 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.500096",
+        "longitude": "-70.857825",
+        "snowfall": "24.5",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.655602",
+        "longitude": "-70.620796",
+        "snowfall": "23.5",
+        "time": "8:55 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.658298",
+        "longitude": "-71.137497",
+        "snowfall": "22.0",
+        "time": "6:26 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.587586",
+        "longitude": "-72.599534",
+        "snowfall": "10.8",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.466755",
+        "longitude": "-72.578700",
+        "snowfall": "5.7",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.673302",
+        "longitude": "-72.822197",
+        "snowfall": "5.0",
+        "time": "4:12 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.069539",
+        "longitude": "-72.222301",
+        "snowfall": "16.0",
+        "time": "8:10 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.160000",
+        "longitude": "-72.476402",
+        "snowfall": "14.0",
+        "time": "7:29 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.125093",
+        "longitude": "-72.749538",
+        "snowfall": "8.0",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.380368",
+        "longitude": "-72.523143",
+        "snowfall": "6.8",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.397309",
+        "longitude": "-72.935654",
+        "snowfall": "4.2",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.391701",
+        "longitude": "-71.566704",
+        "snowfall": "36.0",
+        "time": "4:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.537498",
+        "longitude": "-71.512497",
+        "snowfall": "34.0",
+        "time": "6:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.485001",
+        "longitude": "-71.433296",
+        "snowfall": "34.0",
+        "time": "10:14 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.583302",
+        "longitude": "-71.285004",
+        "snowfall": "34.0",
+        "time": "11:46 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.599701",
+        "longitude": "-71.367798",
+        "snowfall": "33.8",
+        "time": "9:25 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.279202",
+        "longitude": "-71.416702",
+        "snowfall": "33.5",
+        "time": "5:40 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.670300",
+        "longitude": "-71.302498",
+        "snowfall": "33.1",
+        "time": "11:17 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.633301",
+        "longitude": "-71.316704",
+        "snowfall": "33.0",
+        "time": "9:52 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.579201",
+        "longitude": "-71.438301",
+        "snowfall": "33.0",
+        "time": "10:04 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.433427",
+        "longitude": "-71.449507",
+        "snowfall": "33.0",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.676701",
+        "longitude": "-71.425003",
+        "snowfall": "32.8",
+        "time": "7:11 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.638901",
+        "longitude": "-71.383301",
+        "snowfall": "32.5",
+        "time": "8:13 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.611099",
+        "longitude": "-71.574997",
+        "snowfall": "30.0",
+        "time": "8:50 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.506401",
+        "longitude": "-71.073303",
+        "snowfall": "29.0",
+        "time": "7:58 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.452202",
+        "longitude": "-71.137497",
+        "snowfall": "29.0",
+        "time": "8:04 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.575001",
+        "longitude": "-71.079201",
+        "snowfall": "29.0",
+        "time": "8:25 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.447201",
+        "longitude": "-71.224998",
+        "snowfall": "27.8",
+        "time": "5:58 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.665798",
+        "longitude": "-71.588898",
+        "snowfall": "26.5",
+        "time": "5:13 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.610600",
+        "longitude": "-71.234703",
+        "snowfall": "26.1",
+        "time": "8:38 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.283430",
+        "longitude": "-71.349503",
+        "snowfall": "25.5",
+        "time": "7:45 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.490650",
+        "longitude": "-71.276169",
+        "snowfall": "25.0",
+        "time": "10:21 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.349998",
+        "longitude": "-71.233299",
+        "snowfall": "25.0",
+        "time": "12:40 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.508301",
+        "longitude": "-71.158302",
+        "snowfall": "24.5",
+        "time": "9:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.479198",
+        "longitude": "-71.152802",
+        "snowfall": "24.0",
+        "time": "3:02 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.458302",
+        "longitude": "-71.066704",
+        "snowfall": "23.0",
+        "time": "8:41 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.387501",
+        "longitude": "-71.099998",
+        "snowfall": "22.3",
+        "time": "3:08 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.666698",
+        "longitude": "-71.705597",
+        "snowfall": "21.6",
+        "time": "5:28 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.200001",
+        "longitude": "-71.425003",
+        "snowfall": "21.5",
+        "time": "6:18 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.460300",
+        "longitude": "-71.349403",
+        "snowfall": "21.5",
+        "time": "11:08 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.362499",
+        "longitude": "-71.361900",
+        "snowfall": "20.0",
+        "time": "4:28 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.415298",
+        "longitude": "-71.156898",
+        "snowfall": "19.0",
+        "time": "11:13 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.283298",
+        "longitude": "-70.099998",
+        "snowfall": "12.0",
+        "time": "4:11 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.123600",
+        "longitude": "-71.179199",
+        "snowfall": "31.0",
+        "time": "9:23 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.249401",
+        "longitude": "-71.066704",
+        "snowfall": "30.8",
+        "time": "9:27 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.210000",
+        "longitude": "-71.110000",
+        "snowfall": "30.8",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.222198",
+        "longitude": "-71.000000",
+        "snowfall": "26.0",
+        "time": "4:07 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.141701",
+        "longitude": "-71.250000",
+        "snowfall": "24.6",
+        "time": "6:19 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.252800",
+        "longitude": "-71.002800",
+        "snowfall": "24.5",
+        "time": "8:40 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.245800",
+        "longitude": "-70.947197",
+        "snowfall": "24.5",
+        "time": "11:19 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.174999",
+        "longitude": "-70.949997",
+        "snowfall": "24.0",
+        "time": "9:07 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.220798",
+        "longitude": "-70.940300",
+        "snowfall": "23.0",
+        "time": "4:04 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.162600",
+        "longitude": "-71.041159",
+        "snowfall": "23.0",
+        "time": "10:03 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.294542",
+        "longitude": "-71.232833",
+        "snowfall": "23.0",
+        "time": "9:56 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.194401",
+        "longitude": "-71.199997",
+        "snowfall": "22.3",
+        "time": "7:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.058300",
+        "longitude": "-71.250000",
+        "snowfall": "22.0",
+        "time": "6:24 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.083431",
+        "longitude": "-71.396725",
+        "snowfall": "21.0",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.187500",
+        "longitude": "-71.306900",
+        "snowfall": "19.0",
+        "time": "4:30 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.125000",
+        "longitude": "-71.102798",
+        "snowfall": "17.0",
+        "time": "4:29 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.167500",
+        "longitude": "-71.358299",
+        "snowfall": "16.5",
+        "time": "6:20 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.958302",
+        "longitude": "-70.667801",
+        "snowfall": "30.7",
+        "time": "11:39 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.994400",
+        "longitude": "-70.724998",
+        "snowfall": "28.0",
+        "time": "5:26 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.161701",
+        "longitude": "-70.794403",
+        "snowfall": "28.0",
+        "time": "11:16 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.091702",
+        "longitude": "-70.706100",
+        "snowfall": "25.0",
+        "time": "8:41 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.113098",
+        "longitude": "-70.812500",
+        "snowfall": "24.0",
+        "time": "7:36 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.301899",
+        "longitude": "-70.908302",
+        "snowfall": "23.5",
+        "time": "8:17 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.071400",
+        "longitude": "-70.809700",
+        "snowfall": "23.0",
+        "time": "4:32 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.130656",
+        "longitude": "-70.916155",
+        "snowfall": "22.0",
+        "time": "9:13 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.083302",
+        "longitude": "-71.018898",
+        "snowfall": "22.0",
+        "time": "11:35 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.883301",
+        "longitude": "-70.763100",
+        "snowfall": "21.3",
+        "time": "9:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.075001",
+        "longitude": "-70.880600",
+        "snowfall": "20.0",
+        "time": "6:05 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.893101",
+        "longitude": "-70.911697",
+        "snowfall": "19.5",
+        "time": "11:12 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.990379",
+        "longitude": "-70.975043",
+        "snowfall": "18.0",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.731770",
+        "longitude": "-70.820037",
+        "snowfall": "18.0",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.333302",
+        "longitude": "-71.050003",
+        "snowfall": "31.0",
+        "time": "1:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.375000",
+        "longitude": "-70.983299",
+        "snowfall": "24.6",
+        "time": "7:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.389577",
+        "longitude": "-71.039217",
+        "snowfall": "24.6",
+        "time": "7:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.594398",
+        "longitude": "-71.724998",
+        "snowfall": "36.0",
+        "time": "7:17 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.194539",
+        "longitude": "-71.835627",
+        "snowfall": "36.0",
+        "time": "9:47 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.279204",
+        "longitude": "-71.856537",
+        "snowfall": "34.5",
+        "time": "12:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.416698",
+        "longitude": "-71.683296",
+        "snowfall": "34.1",
+        "time": "4:19 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.366699",
+        "longitude": "-71.786102",
+        "snowfall": "33.5",
+        "time": "7:30 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.262501",
+        "longitude": "-71.802803",
+        "snowfall": "32.0",
+        "time": "4:21 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.351759",
+        "longitude": "-71.863406",
+        "snowfall": "32.0",
+        "time": "5:46 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.174400",
+        "longitude": "-71.602798",
+        "snowfall": "31.5",
+        "time": "7:54 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.139819",
+        "longitude": "-71.516174",
+        "snowfall": "31.0",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.295799",
+        "longitude": "-71.713303",
+        "snowfall": "30.9",
+        "time": "7:40 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.111099",
+        "longitude": "-71.666702",
+        "snowfall": "30.0",
+        "time": "5:03 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.437500",
+        "longitude": "-71.761101",
+        "snowfall": "29.3",
+        "time": "3:52 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.525002",
+        "longitude": "-71.760300",
+        "snowfall": "29.0",
+        "time": "4:37 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.243900",
+        "longitude": "-71.992798",
+        "snowfall": "29.0",
+        "time": "7:35 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.233299",
+        "longitude": "-71.708298",
+        "snowfall": "29.0",
+        "time": "8:05 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.391701",
+        "longitude": "-71.704201",
+        "snowfall": "28.0",
+        "time": "5:34 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.500000",
+        "longitude": "-71.583298",
+        "snowfall": "27.0",
+        "time": "9:10 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.316759",
+        "longitude": "-71.817572",
+        "snowfall": "24.0",
+        "time": "9:14 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.075001",
+        "longitude": "-72.033897",
+        "snowfall": "22.3",
+        "time": "7:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.116206",
+        "longitude": "-72.113410",
+        "snowfall": "21.0",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.545799",
+        "longitude": "-71.911102",
+        "snowfall": "16.0",
+        "time": "10:52 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.636199",
+        "longitude": "-71.907854",
+        "snowfall": "10.0",
+        "time": "4:26 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.350091",
+        "longitude": "-72.199524",
+        "snowfall": "9.3",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.706100",
+        "longitude": "-71.523598",
+        "snowfall": "20.5",
+        "time": "9:54 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.726856",
+        "longitude": "-71.431017",
+        "snowfall": "19.1",
+        "time": "12:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.691101",
+        "longitude": "-71.746399",
+        "snowfall": "18.0",
+        "time": "3:51 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.700001",
+        "longitude": "-71.416702",
+        "snowfall": "11.0",
+        "time": "9:30 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.625801",
+        "longitude": "-71.213898",
+        "snowfall": "19.0",
+        "time": "8:07 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.545601",
+        "longitude": "-71.291901",
+        "snowfall": "16.0",
+        "time": "7:38 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.916698",
+        "longitude": "-71.716698",
+        "snowfall": "28.5",
+        "time": "7:31 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.916698",
+        "longitude": "-71.792801",
+        "snowfall": "25.6",
+        "time": "7:14 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.831488",
+        "longitude": "-71.750625",
+        "snowfall": "21.7",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.779701",
+        "longitude": "-71.437798",
+        "snowfall": "19.5",
+        "time": "8:28 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.921902",
+        "longitude": "-71.550003",
+        "snowfall": "18.0",
+        "time": "6:27 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.823898",
+        "longitude": "-71.413300",
+        "snowfall": "17.0",
+        "time": "6:22 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.878601",
+        "longitude": "-71.383102",
+        "snowfall": "17.0",
+        "time": "9:25 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.002876",
+        "longitude": "-71.514784",
+        "snowfall": "16.0",
+        "time": "8:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "41.823987",
+        "longitude": "-71.432266",
+        "snowfall": "15.5",
+        "time": "5:09 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.813599",
+        "longitude": "-71.370598",
+        "snowfall": "14.5",
+        "time": "8:37 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.377600",
+        "longitude": "-71.827291",
+        "snowfall": "21.0",
+        "time": "6:24 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.507500",
+        "longitude": "-71.716698",
+        "snowfall": "18.5",
+        "time": "5:27 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.550101",
+        "longitude": "-71.466169",
+        "snowfall": "16.0",
+        "time": "12:08 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.916000",
+        "longitude": "-73.119374",
+        "snowfall": "5.5",
+        "time": "8:04 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.105830",
+        "longitude": "-72.997500",
+        "snowfall": "4.5",
+        "time": "6:28 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.617500",
+        "longitude": "-73.153300",
+        "snowfall": "5.5",
+        "time": "6:19 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.512000",
+        "longitude": "-73.059300",
+        "snowfall": "4.0",
+        "time": "4:59 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.503900",
+        "longitude": "-72.997600",
+        "snowfall": "4.0",
+        "time": "6:30 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.632444",
+        "longitude": "-73.039366",
+        "snowfall": "3.9",
+        "time": "6:52 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.480000",
+        "longitude": "-73.150000",
+        "snowfall": "3.6",
+        "time": "5:08 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.425500",
+        "longitude": "-73.188300",
+        "snowfall": "3.5",
+        "time": "6:01 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.449722",
+        "longitude": "-72.926989",
+        "snowfall": "1.5",
+        "time": "4:59 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.585300",
+        "longitude": "-72.932800",
+        "snowfall": "0.5",
+        "time": "4:59 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.997000",
+        "longitude": "-72.671200",
+        "snowfall": "2.0",
+        "time": "8:12 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.561700",
+        "longitude": "-72.598400",
+        "snowfall": "3.0",
+        "time": "6:49 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.121700",
+        "longitude": "-72.541900",
+        "snowfall": "3.2",
+        "time": "6:25 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.940800",
+        "longitude": "-72.607000",
+        "snowfall": "1.0",
+        "time": "6:31 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.447500",
+        "longitude": "-72.825600",
+        "snowfall": "8.5",
+        "time": "11:26 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.346200",
+        "longitude": "-72.995400",
+        "snowfall": "6.0",
+        "time": "6:26 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.199805",
+        "longitude": "-72.633111",
+        "snowfall": "4.3",
+        "time": "7:51 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.350800",
+        "longitude": "-72.352100",
+        "snowfall": "2.0",
+        "time": "4:57 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.464200",
+        "longitude": "-72.705100",
+        "snowfall": "9.0",
+        "time": "8:55 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.540600",
+        "longitude": "-72.399400",
+        "snowfall": "6.0",
+        "time": "6:29 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.262800",
+        "longitude": "-72.593900",
+        "snowfall": "6.0",
+        "time": "11:26 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.715300",
+        "longitude": "-72.307900",
+        "snowfall": "4.0",
+        "time": "9:06 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.396300",
+        "longitude": "-72.697500",
+        "snowfall": "3.8",
+        "time": "4:56 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "45.871100",
+        "longitude": "-68.418300",
+        "snowfall": "18.0",
+        "time": "9:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "46.006000",
+        "longitude": "-68.265100",
+        "snowfall": "16.0",
+        "time": "7:21 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "46.125293",
+        "longitude": "-67.839638",
+        "snowfall": "15.5",
+        "time": "9:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "46.030949",
+        "longitude": "-67.932999",
+        "snowfall": "14.0",
+        "time": "9:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "46.674000",
+        "longitude": "-67.852000",
+        "snowfall": "13.8",
+        "time": "10:33 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "45.814800",
+        "longitude": "-67.842000",
+        "snowfall": "13.0",
+        "time": "9:36 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "46.525000",
+        "longitude": "-67.817000",
+        "snowfall": "13.0",
+        "time": "10:22 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "46.679500",
+        "longitude": "-68.012800",
+        "snowfall": "10.4",
+        "time": "7:30 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "46.871360",
+        "longitude": "-68.017930",
+        "snowfall": "9.1",
+        "time": "7:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "46.792200",
+        "longitude": "-67.801700",
+        "snowfall": "7.5",
+        "time": "6:30 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "46.881074",
+        "longitude": "-67.982540",
+        "snowfall": "7.2",
+        "time": "9:12 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "46.961000",
+        "longitude": "-68.030700",
+        "snowfall": "6.3",
+        "time": "9:47 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "47.129400",
+        "longitude": "-68.597800",
+        "snowfall": "6.0",
+        "time": "10:25 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "47.129400",
+        "longitude": "-68.317800",
+        "snowfall": "5.0",
+        "time": "8:30 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "46.844200",
+        "longitude": "-68.197800",
+        "snowfall": "5.0",
+        "time": "8:30 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "47.215800",
+        "longitude": "-68.076300",
+        "snowfall": "4.0",
+        "time": "7:44 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "46.610800",
+        "longitude": "-69.522800",
+        "snowfall": "4.0",
+        "time": "9:19 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "47.351000",
+        "longitude": "-68.332500",
+        "snowfall": "4.0",
+        "time": "10:55 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.387500",
+        "longitude": "-68.204400",
+        "snowfall": "18.0",
+        "time": "9:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.511500",
+        "longitude": "-68.355100",
+        "snowfall": "17.0",
+        "time": "10:36 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.265100",
+        "longitude": "-68.673400",
+        "snowfall": "15.0",
+        "time": "11:29 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.346700",
+        "longitude": "-68.684200",
+        "snowfall": "14.0",
+        "time": "4:45 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.249144",
+        "longitude": "-68.287135",
+        "snowfall": "13.7",
+        "time": "7:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.672000",
+        "longitude": "-68.541000",
+        "snowfall": "11.2",
+        "time": "7:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.493400",
+        "longitude": "-68.458200",
+        "snowfall": "10.3",
+        "time": "11:58 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.715400",
+        "longitude": "-68.336500",
+        "snowfall": "7.0",
+        "time": "9:12 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "45.080300",
+        "longitude": "-68.651400",
+        "snowfall": "20.0",
+        "time": "9:45 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "45.047200",
+        "longitude": "-68.481900",
+        "snowfall": "20.0",
+        "time": "9:41 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.883100",
+        "longitude": "-68.672500",
+        "snowfall": "18.0",
+        "time": "9:15 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.804400",
+        "longitude": "-68.813300",
+        "snowfall": "17.3",
+        "time": "7:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "45.023900",
+        "longitude": "-69.290300",
+        "snowfall": "17.0",
+        "time": "8:30 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.793000",
+        "longitude": "-68.838000",
+        "snowfall": "16.0",
+        "time": "4:50 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "45.362200",
+        "longitude": "-68.505600",
+        "snowfall": "16.0",
+        "time": "4:50 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.810000",
+        "longitude": "-68.913900",
+        "snowfall": "16.0",
+        "time": "4:50 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.744725",
+        "longitude": "-68.871555",
+        "snowfall": "14.5",
+        "time": "7:21 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.915100",
+        "longitude": "-69.053800",
+        "snowfall": "14.0",
+        "time": "7:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "45.360000",
+        "longitude": "-68.286900",
+        "snowfall": "14.0",
+        "time": "9:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "45.863600",
+        "longitude": "-68.505800",
+        "snowfall": "14.0",
+        "time": "11:04 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.915400",
+        "longitude": "-68.826600",
+        "snowfall": "13.5",
+        "time": "4:37 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "45.743300",
+        "longitude": "-68.734300",
+        "snowfall": "13.0",
+        "time": "7:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.731100",
+        "longitude": "-68.826900",
+        "snowfall": "13.0",
+        "time": "10:39 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.767200",
+        "longitude": "-69.210800",
+        "snowfall": "12.0",
+        "time": "5:05 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.819900",
+        "longitude": "-69.217500",
+        "snowfall": "8.6",
+        "time": "7:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.800000",
+        "longitude": "-69.168000",
+        "snowfall": "8.2",
+        "time": "7:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "45.086300",
+        "longitude": "-69.630100",
+        "snowfall": "17.0",
+        "time": "7:45 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "45.418400",
+        "longitude": "-69.586300",
+        "snowfall": "17.0",
+        "time": "11:58 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "45.169762",
+        "longitude": "-69.395573",
+        "snowfall": "15.0",
+        "time": "9:52 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "45.183300",
+        "longitude": "-69.227500",
+        "snowfall": "14.0",
+        "time": "7:03 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "45.306900",
+        "longitude": "-69.033900",
+        "snowfall": "12.0",
+        "time": "9:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "45.507000",
+        "longitude": "-69.701000",
+        "snowfall": "11.7",
+        "time": "10:23 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "45.671100",
+        "longitude": "-69.446900",
+        "snowfall": "10.0",
+        "time": "6:06 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "45.271400",
+        "longitude": "-69.117200",
+        "snowfall": "9.0",
+        "time": "9:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.906100",
+        "longitude": "-66.990600",
+        "snowfall": "24.2",
+        "time": "1:00 PM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.823900",
+        "longitude": "-67.154200",
+        "snowfall": "22.0",
+        "time": "9:06 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.738600",
+        "longitude": "-67.316900",
+        "snowfall": "22.0",
+        "time": "1:35 PM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.975000",
+        "longitude": "-67.076400",
+        "snowfall": "20.0",
+        "time": "8:30 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.619200",
+        "longitude": "-67.810800",
+        "snowfall": "19.0",
+        "time": "9:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.739200",
+        "longitude": "-67.390600",
+        "snowfall": "18.5",
+        "time": "11:25 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "45.021100",
+        "longitude": "-67.245800",
+        "snowfall": "16.5",
+        "time": "4:31 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "45.223300",
+        "longitude": "-67.572800",
+        "snowfall": "15.0",
+        "time": "8:30 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.535300",
+        "longitude": "-67.881400",
+        "snowfall": "14.0",
+        "time": "9:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.658100",
+        "longitude": "-67.775000",
+        "snowfall": "12.0",
+        "time": "8:52 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "45.086000",
+        "longitude": "-67.122000",
+        "snowfall": "11.9",
+        "time": "8:34 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.953600",
+        "longitude": "-67.162500",
+        "snowfall": "10.5",
+        "time": "9:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.250000",
+        "longitude": "-70.280000",
+        "snowfall": "28.5",
+        "time": "7:43 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.100000",
+        "longitude": "-70.170000",
+        "snowfall": "28.5",
+        "time": "10:01 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.100300",
+        "longitude": "-70.215300",
+        "snowfall": "25.0",
+        "time": "7:22 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.000500",
+        "longitude": "-70.048500",
+        "snowfall": "24.0",
+        "time": "9:31 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.100000",
+        "longitude": "-70.270000",
+        "snowfall": "24.0",
+        "time": "9:34 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.970000",
+        "longitude": "-70.120000",
+        "snowfall": "23.0",
+        "time": "10:42 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.200000",
+        "longitude": "-70.260000",
+        "snowfall": "22.0",
+        "time": "6:22 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.735800",
+        "longitude": "-70.552500",
+        "snowfall": "30.0",
+        "time": "9:40 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.797800",
+        "longitude": "-70.180000",
+        "snowfall": "29.0",
+        "time": "11:23 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.661400",
+        "longitude": "-70.255800",
+        "snowfall": "27.4",
+        "time": "8:08 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.741000",
+        "longitude": "-70.398000",
+        "snowfall": "27.0",
+        "time": "7:23 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.578100",
+        "longitude": "-70.322200",
+        "snowfall": "27.0",
+        "time": "9:49 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.890000",
+        "longitude": "-70.260000",
+        "snowfall": "26.6",
+        "time": "7:06 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.674170",
+        "longitude": "-70.439170",
+        "snowfall": "26.3",
+        "time": "7:15 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.851773",
+        "longitude": "-70.258192",
+        "snowfall": "26.0",
+        "time": "7:21 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.844400",
+        "longitude": "-70.217800",
+        "snowfall": "26.0",
+        "time": "9:45 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.770080",
+        "longitude": "-70.197549",
+        "snowfall": "26.0",
+        "time": "9:49 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.710000",
+        "longitude": "-70.290000",
+        "snowfall": "25.5",
+        "time": "7:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.700000",
+        "longitude": "-70.420000",
+        "snowfall": "25.3",
+        "time": "6:55 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.775000",
+        "longitude": "-70.267000",
+        "snowfall": "25.0",
+        "time": "2:58 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.940000",
+        "longitude": "-70.347000",
+        "snowfall": "25.0",
+        "time": "8:15 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.634200",
+        "longitude": "-70.247100",
+        "snowfall": "24.0",
+        "time": "5:16 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.950000",
+        "longitude": "-70.440000",
+        "snowfall": "24.0",
+        "time": "8:56 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.650000",
+        "longitude": "-70.300000",
+        "snowfall": "23.8",
+        "time": "9:09 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.789522",
+        "longitude": "-70.408386",
+        "snowfall": "23.0",
+        "time": "5:15 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.750000",
+        "longitude": "-70.270000",
+        "snowfall": "22.2",
+        "time": "6:23 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.580000",
+        "longitude": "-70.310000",
+        "snowfall": "21.0",
+        "time": "6:42 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.985000",
+        "longitude": "-70.560000",
+        "snowfall": "21.0",
+        "time": "8:04 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.050000",
+        "longitude": "-70.710000",
+        "snowfall": "20.9",
+        "time": "6:37 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.690000",
+        "longitude": "-70.320000",
+        "snowfall": "20.0",
+        "time": "7:54 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.810000",
+        "longitude": "-70.260000",
+        "snowfall": "20.0",
+        "time": "6:00 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.879097",
+        "longitude": "-70.632568",
+        "snowfall": "16.0",
+        "time": "9:55 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.688800",
+        "longitude": "-70.156600",
+        "snowfall": "22.0",
+        "time": "8:21 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.638900",
+        "longitude": "-70.016100",
+        "snowfall": "14.0",
+        "time": "4:45 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "45.210386",
+        "longitude": "-70.472271",
+        "snowfall": "6.9",
+        "time": "6:55 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.563600",
+        "longitude": "-69.621700",
+        "snowfall": "14.0",
+        "time": "5:05 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.459200",
+        "longitude": "-69.678100",
+        "snowfall": "10.0",
+        "time": "7:05 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.019200",
+        "longitude": "-69.240300",
+        "snowfall": "16.0",
+        "time": "7:04 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.998718",
+        "longitude": "-69.268767",
+        "snowfall": "15.5",
+        "time": "5:22 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.200000",
+        "longitude": "-69.070000",
+        "snowfall": "12.0",
+        "time": "5:33 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.876400",
+        "longitude": "-69.634200",
+        "snowfall": "14.0",
+        "time": "6:54 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.131700",
+        "longitude": "-70.493600",
+        "snowfall": "28.0",
+        "time": "10:48 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.375135",
+        "longitude": "-70.316486",
+        "snowfall": "18.8",
+        "time": "11:54 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.400000",
+        "longitude": "-70.790000",
+        "snowfall": "18.0",
+        "time": "7:36 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.506700",
+        "longitude": "-70.405800",
+        "snowfall": "17.5",
+        "time": "9:42 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.378300",
+        "longitude": "-70.646400",
+        "snowfall": "14.0",
+        "time": "10:49 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.910600",
+        "longitude": "-69.821100",
+        "snowfall": "24.9",
+        "time": "9:43 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.740000",
+        "longitude": "-69.810000",
+        "snowfall": "23.0",
+        "time": "7:22 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.930000",
+        "longitude": "-69.980000",
+        "snowfall": "20.3",
+        "time": "4:21 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.797500",
+        "longitude": "-69.880300",
+        "snowfall": "18.0",
+        "time": "4:52 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.836700",
+        "longitude": "-69.673600",
+        "snowfall": "16.0",
+        "time": "7:01 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.850000",
+        "longitude": "-69.900000",
+        "snowfall": "15.0",
+        "time": "7:18 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "45.623900",
+        "longitude": "-70.255000",
+        "snowfall": "8.5",
+        "time": "7:22 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.410240",
+        "longitude": "-70.774700",
+        "snowfall": "31.5",
+        "time": "7:18 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.439200",
+        "longitude": "-70.774700",
+        "snowfall": "31.5",
+        "time": "9:45 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.530000",
+        "longitude": "-70.460000",
+        "snowfall": "27.0",
+        "time": "8:49 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.424720",
+        "longitude": "-70.774700",
+        "snowfall": "26.0",
+        "time": "5:30 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.500000",
+        "longitude": "-70.510000",
+        "snowfall": "25.5",
+        "time": "8:44 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.383900",
+        "longitude": "-70.545300",
+        "snowfall": "24.3",
+        "time": "9:39 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.321900",
+        "longitude": "-70.581400",
+        "snowfall": "24.0",
+        "time": "4:18 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.265800",
+        "longitude": "-70.865000",
+        "snowfall": "24.0",
+        "time": "4:42 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.400000",
+        "longitude": "-70.520000",
+        "snowfall": "23.7",
+        "time": "3:58 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.143600",
+        "longitude": "-70.651400",
+        "snowfall": "23.0",
+        "time": "3:50 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.098000",
+        "longitude": "-70.774000",
+        "snowfall": "22.0",
+        "time": "9:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.731700",
+        "longitude": "-70.711400",
+        "snowfall": "20.0",
+        "time": "7:30 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.100000",
+        "longitude": "-70.700000",
+        "snowfall": "17.0",
+        "time": "6:48 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.333900",
+        "longitude": "-71.293300",
+        "snowfall": "20.0",
+        "time": "9:37 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.530000",
+        "longitude": "-71.462780",
+        "snowfall": "12.0",
+        "time": "4:48 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.424200",
+        "longitude": "-71.415000",
+        "snowfall": "11.0",
+        "time": "6:50 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.710800",
+        "longitude": "-71.482200",
+        "snowfall": "7.5",
+        "time": "6:48 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.657500",
+        "longitude": "-71.500800",
+        "snowfall": "6.9",
+        "time": "7:19 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.585000",
+        "longitude": "-71.218000",
+        "snowfall": "16.1",
+        "time": "12:12 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.910000",
+        "longitude": "-71.150000",
+        "snowfall": "12.0",
+        "time": "1:36 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.754700",
+        "longitude": "-71.397200",
+        "snowfall": "10.0",
+        "time": "7:33 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.590000",
+        "longitude": "-71.200000",
+        "snowfall": "10.0",
+        "time": "8:25 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.070000",
+        "longitude": "-71.130000",
+        "snowfall": "7.0",
+        "time": "10:11 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.110000",
+        "longitude": "-72.260000",
+        "snowfall": "10.3",
+        "time": "8:56 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.870028",
+        "longitude": "-72.323674",
+        "snowfall": "7.1",
+        "time": "2:17 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.903885",
+        "longitude": "-72.269505",
+        "snowfall": "7.0",
+        "time": "11:17 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.400000",
+        "longitude": "-71.430000",
+        "snowfall": "12.5",
+        "time": "12:39 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.380000",
+        "longitude": "-71.290000",
+        "snowfall": "8.6",
+        "time": "6:18 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "44.374000",
+        "longitude": "-71.613000",
+        "snowfall": "6.0",
+        "time": "8:37 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.600000",
+        "longitude": "-71.740000",
+        "snowfall": "8.7",
+        "time": "8:42 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.950000",
+        "longitude": "-71.500000",
+        "snowfall": "7.0",
+        "time": "11:01 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.226900",
+        "longitude": "-71.748300",
+        "snowfall": "6.9",
+        "time": "10:12 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "44.166900",
+        "longitude": "-71.966700",
+        "snowfall": "6.5",
+        "time": "11:41 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.809400",
+        "longitude": "-72.159200",
+        "snowfall": "2.5",
+        "time": "10:47 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.748600",
+        "longitude": "-71.491800",
+        "snowfall": "33.2",
+        "time": "7:19 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.763800",
+        "longitude": "-71.432100",
+        "snowfall": "32.0",
+        "time": "7:32 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.943200",
+        "longitude": "-71.685000",
+        "snowfall": "18.0",
+        "time": "6:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.906340",
+        "longitude": "-71.499380",
+        "snowfall": "16.8",
+        "time": "8:27 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.840000",
+        "longitude": "-71.540000",
+        "snowfall": "15.0",
+        "time": "12:34 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.072290",
+        "longitude": "-71.728160",
+        "snowfall": "12.0",
+        "time": "11:17 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.049230",
+        "longitude": "-71.671420",
+        "snowfall": "11.0",
+        "time": "8:28 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.049230",
+        "longitude": "-71.671420",
+        "snowfall": "10.5",
+        "time": "4:10 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.131900",
+        "longitude": "-71.549700",
+        "snowfall": "14.0",
+        "time": "7:19 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.210000",
+        "longitude": "-71.500000",
+        "snowfall": "13.0",
+        "time": "7:03 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.223500",
+        "longitude": "-71.715100",
+        "snowfall": "13.0",
+        "time": "7:23 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.170000",
+        "longitude": "-71.820000",
+        "snowfall": "9.0",
+        "time": "7:24 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.315000",
+        "longitude": "-71.621400",
+        "snowfall": "7.4",
+        "time": "5:30 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.900000",
+        "longitude": "-70.900000",
+        "snowfall": "32.1",
+        "time": "9:06 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.799416",
+        "longitude": "-71.250600",
+        "snowfall": "31.0",
+        "time": "10:12 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "42.950000",
+        "longitude": "-70.850000",
+        "snowfall": "31.0",
+        "time": "4:52 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.867669",
+        "longitude": "-70.844109",
+        "snowfall": "29.0",
+        "time": "10:17 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.136000",
+        "longitude": "-71.311000",
+        "snowfall": "29.0",
+        "time": "2:08 PM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.040000",
+        "longitude": "-70.880000",
+        "snowfall": "28.0",
+        "time": "6:20 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.960384",
+        "longitude": "-70.866392",
+        "snowfall": "28.0",
+        "time": "9:48 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "42.910833",
+        "longitude": "-71.202102",
+        "snowfall": "23.1",
+        "time": "8:54 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.160000",
+        "longitude": "-71.210000",
+        "snowfall": "22.0",
+        "time": "6:58 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.197800",
+        "longitude": "-70.874200",
+        "snowfall": "30.0",
+        "time": "7:20 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.123100",
+        "longitude": "-71.011900",
+        "snowfall": "28.0",
+        "time": "7:26 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.304400",
+        "longitude": "-70.976100",
+        "snowfall": "28.0",
+        "time": "7:33 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.222800",
+        "longitude": "-71.047500",
+        "snowfall": "24.3",
+        "time": "8:20 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.300000",
+        "longitude": "-71.170000",
+        "snowfall": "15.5",
+        "time": "8:26 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.490000",
+        "longitude": "-71.177000",
+        "snowfall": "12.8",
+        "time": "8:47 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "43.170000",
+        "longitude": "-72.080000",
+        "snowfall": "14.0",
+        "time": "8:20 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.280000",
+        "longitude": "-72.300000",
+        "snowfall": "12.0",
+        "time": "7:11 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "43.260000",
+        "longitude": "-72.210000",
+        "snowfall": "11.0",
+        "time": "7:16 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "39.277199",
+        "longitude": "-79.259806",
+        "snowfall": "1.8",
+        "time": "4:40 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "38.670900",
+        "longitude": "-79.491200",
+        "snowfall": "1.5",
+        "time": "5:49 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.402100",
+        "longitude": "-73.471500",
+        "snowfall": "7.0",
+        "time": "5:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.320000",
+        "longitude": "-73.100000",
+        "snowfall": "6.3",
+        "time": "5:35 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.477321",
+        "longitude": "-72.512033",
+        "snowfall": "22.0",
+        "time": "4:35 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.356000",
+        "longitude": "-72.398500",
+        "snowfall": "20.5",
+        "time": "6:30 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.599880",
+        "longitude": "-72.011250",
+        "snowfall": "26.0",
+        "time": "7:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.574000",
+        "longitude": "-72.332000",
+        "snowfall": "25.0",
+        "time": "5:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.550200",
+        "longitude": "-72.087900",
+        "snowfall": "24.0",
+        "time": "5:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.340000",
+        "longitude": "-72.080000",
+        "snowfall": "24.0",
+        "time": "5:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.460000",
+        "longitude": "-72.090000",
+        "snowfall": "20.0",
+        "time": "6:06 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "40.847000",
+        "longitude": "-73.529200",
+        "snowfall": "13.0",
+        "time": "4:30 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "40.907000",
+        "longitude": "-73.563100",
+        "snowfall": "12.7",
+        "time": "4:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.308900",
+        "longitude": "-74.145000",
+        "snowfall": "4.2",
+        "time": "6:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "40.583438",
+        "longitude": "-74.149587",
+        "snowfall": "9.0",
+        "time": "4:22 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.140000",
+        "longitude": "-72.300000",
+        "snowfall": "30.0",
+        "time": "8:07 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "40.880300",
+        "longitude": "-72.395500",
+        "snowfall": "29.0",
+        "time": "6:15 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.002700",
+        "longitude": "-72.546400",
+        "snowfall": "26.9",
+        "time": "4:04 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "40.718155",
+        "longitude": "-73.354287",
+        "snowfall": "24.0",
+        "time": "6:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "40.923500",
+        "longitude": "-73.067700",
+        "snowfall": "22.0",
+        "time": "6:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "40.685700",
+        "longitude": "-73.371800",
+        "snowfall": "21.6",
+        "time": "5:30 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "40.955800",
+        "longitude": "-72.906500",
+        "snowfall": "21.0",
+        "time": "4:13 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "40.879200",
+        "longitude": "-73.324600",
+        "snowfall": "21.0",
+        "time": "7:15 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.020900",
+        "longitude": "-73.757400",
+        "snowfall": "10.3",
+        "time": "4:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "40.913000",
+        "longitude": "-73.829800",
+        "snowfall": "10.1",
+        "time": "5:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "41.025700",
+        "longitude": "-73.805200",
+        "snowfall": "9.9",
+        "time": "4:00 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "39.407875",
+        "longitude": "-79.406712",
+        "snowfall": "4.0",
+        "time": "9:11 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "39.626886",
+        "longitude": "-79.264499",
+        "snowfall": "2.5",
+        "time": "9:39 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "40.774811",
+        "longitude": "-79.527777",
+        "snowfall": "0.2",
+        "time": "7:45 AM",
+        "date": "01/28/2015"
+    },
+    {
+        "latitude": "39.807298",
+        "longitude": "-79.565597",
+        "snowfall": "1.9",
+        "time": "5:28 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "39.580084",
+        "longitude": "-79.636717",
+        "snowfall": "3.0",
+        "time": "6:30 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "39.147400",
+        "longitude": "-79.499100",
+        "snowfall": "3.0",
+        "time": "10:31 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "39.093300",
+        "longitude": "-79.679300",
+        "snowfall": "1.0",
+        "time": "10:31 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "40.390000",
+        "longitude": "-74.760000",
+        "snowfall": "6.0",
+        "time": "5:02 PM",
+        "date": "01/27/2015"
+    },
+    {
+        "latitude": "40.112800",
+        "longitude": "-74.037000",
+        "snowfall": "12.0",
+        "time": "5:05 PM",
+        "date": "01/27/2015"
+    }
+]
