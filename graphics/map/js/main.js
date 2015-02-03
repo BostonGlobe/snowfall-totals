@@ -16,18 +16,21 @@ var map = L.map($map.get(0), {
 // Add the MapBox baselayer to our map.
 L.tileLayer('http://{s}.tiles.mapbox.com/v3/gabriel-florit.baselayer_land/{z}/{x}/{y}.png', {
 // L.tileLayer('http://{s}.tiles.mapbox.com/v3/gabriel-florit.207de5da/{z}/{x}/{y}.png', {
-	minZoom: 2,
+	minZoom: 6,
 	maxZoom: 10
 }).addTo(map);
 
 // Define the snowfall image bounds.
+// 31, -85.5
+// 47.5, -67
 var southWest = new L.LatLng(30.8, -85.7),
 	northEast = new L.LatLng(47.58, -67),
 	bounds = new L.LatLngBounds(southWest, northEast);
 
 // Add the snowfall image to the map.
 // var imageLayer = L.imageOverlay('http://amzncache.boston.com/partners/maps/snowfall.png', bounds).addTo(map);
-var imageLayer = L.imageOverlay('js/snowfall.png', bounds).addTo(map);
+// var imageLayer = L.imageOverlay('js/snowfall.png', bounds).addTo(map);
+var imageLayer = L.imageOverlay('http://cache.boston.com/multimedia/graphics/projectFiles/2015/snowfall/snowfall12.png', bounds).addTo(map);
 
 // Create a Leaflet control for the legend.
 var MyControl = L.Control.extend({
@@ -52,78 +55,97 @@ if (!Modernizr.touch) {
 	map.addControl(new MyControl());
 }
 
-// Get the time right now.
-var date = new Date();
+// // Get the time right now.
+// var date = new Date();
 
-// Construct a new date with no minutes or seconds.
-var hourDate = new Date(date.getFullYear(), date.getMonth(), date.getDate(), date.getHours());
+// // Construct a new date with no minutes or seconds.
+// var hourDate = new Date(date.getFullYear(), date.getMonth(), date.getDate(), date.getHours());
 
-// Populate the 'updated' element.
-$('.updated-timestamp').html('Updated ' + [APDateTime.time(hourDate), APDateTime.date(hourDate)].join(', '));
+// // Populate the 'updated' element.
+// $('.updated-timestamp').html('Updated ' + [APDateTime.time(hourDate), APDateTime.date(hourDate)].join(', '));
+// window.colorbar = {};
+// window.pointKml = {};
+// window.titlePns = {};
+// window.image = {};
+// window.masterKmlFile = {};
+// $.getScript('http://www.erh.noaa.gov/hydromet/eventdata/stormTotalv3_24/latestInfo.js', function(e) {
+
+// 	debugger;
+
+// });
 
 
 
 
 
 
-var points = require('./points.json');
+// var points = require('./points.json');
 
-var ICON_WIDTH = 38 + 10;
-var ICON_HEIGHT = 18 + 10;
+// var ICON_WIDTH = 38 + 10;
+// var ICON_HEIGHT = 18 + 10;
 
-var markers = [];
+// var markers = [];
 
-function intersectRect(r1, r2) {
-	return !(r2.left > r1.right || 
-	r2.right < r1.left || 
-	r2.top > r1.bottom ||
-	r2.bottom < r1.top);
-}
+// function intersectRect(r1, r2) {
+// 	return !(r2.left > r1.right || 
+// 	r2.right < r1.left || 
+// 	r2.top > r1.bottom ||
+// 	r2.bottom < r1.top);
+// }
 
-// for each point,
-// find the absolute pixel coordinates for the given zoom level
-// assuming we're center aligning the point,
-// find the point's bounding box in pixel coordinates
-points.forEach(function(point, index) {
+// // for each point,
+// // find the absolute pixel coordinates for the given zoom level
+// // assuming we're center aligning the point,
+// // find the point's bounding box in pixel coordinates
+// points.forEach(function(point, index) {
 
-	var pointCoords = map.project([point.latitude, point.longitude]);
+// 	var pointCoords = map.project([point.latitude, point.longitude]);
 
-	var pointBBox = {
-		left: pointCoords.x - ICON_WIDTH/2,
-		right: pointCoords.x + ICON_WIDTH/2,
-		bottom: pointCoords.y + ICON_HEIGHT/2,
-		top: pointCoords.y - ICON_HEIGHT/2
-	};
+// 	var pointBBox = {
+// 		left: pointCoords.x - ICON_WIDTH/2,
+// 		right: pointCoords.x + ICON_WIDTH/2,
+// 		bottom: pointCoords.y + ICON_HEIGHT/2,
+// 		top: pointCoords.y - ICON_HEIGHT/2
+// 	};
 
-	// make sure this bbox doesn't overlap with any existing markers
-	var overlaps = _.some(markers, function(marker) {
+// 	// make sure this bbox doesn't overlap with any existing markers
+// 	var overlaps = _.some(markers, function(marker) {
 
-		var markerCoords = map.project(marker._latlng);
+// 		var markerCoords = map.project(marker._latlng);
 
-		var markerBBox = {
-			left: markerCoords.x - ICON_WIDTH/2,
-			right: markerCoords.x + ICON_WIDTH/2,
-			bottom: markerCoords.y + ICON_HEIGHT/2,
-			top: markerCoords.y - ICON_HEIGHT/2
-		};
+// 		var markerBBox = {
+// 			left: markerCoords.x - ICON_WIDTH/2,
+// 			right: markerCoords.x + ICON_WIDTH/2,
+// 			bottom: markerCoords.y + ICON_HEIGHT/2,
+// 			top: markerCoords.y - ICON_HEIGHT/2
+// 		};
 
-		return intersectRect(pointBBox, markerBBox);
-	});
+// 		return intersectRect(pointBBox, markerBBox);
+// 	});
 
-	// if it doesn't overlap, add to markers layer
-	if (!overlaps) {
+// 	// if it doesn't overlap, add to markers layer
+// 	if (!overlaps) {
 
-		var icon = L.divIcon({
-			html: '<span>' + point.snowfall + '”</span>',
-			className: 'snowfall',
-			iconSize: 100
-		});
+// 		var icon = L.divIcon({
+// 			html: '<span>' + point.snowfall + '”</span>',
+// 			className: 'snowfall',
+// 			iconSize: 100
+// 		});
 
-		var marker = L.marker([point.latitude, point.longitude], {icon: icon});
-		markers.push(marker);
+// 		var marker = L.marker([point.latitude, point.longitude], {icon: icon});
+// 		markers.push(marker);
 
-	}
+// 	}
 
-});
+// });
 
-L.layerGroup(markers).addTo(map);
+// L.layerGroup(markers).addTo(map);
+
+
+
+
+
+
+
+
+
