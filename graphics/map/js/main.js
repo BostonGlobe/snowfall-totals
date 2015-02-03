@@ -10,14 +10,14 @@ var $map = $('.content .map', master);
 var map = L.map($map.get(0), {
 	attributionControl: false,
 	scrollWheelZoom: false
-}).setView([42.25841962, -71.81532837], 6);
+}).setView([42.25841962, -71.81532837], 10);
 // }).setView([0, 0], 2);
 
 // Add the MapBox baselayer to our map.
 L.tileLayer('http://{s}.tiles.mapbox.com/v3/gabriel-florit.baselayer_land/{z}/{x}/{y}.png', {
 // L.tileLayer('http://{s}.tiles.mapbox.com/v3/gabriel-florit.207de5da/{z}/{x}/{y}.png', {
 	minZoom: 6,
-	maxZoom: 10
+	maxZoom: 11
 }).addTo(map);
 
 // Define the snowfall image bounds.
@@ -30,7 +30,7 @@ var southWest = new L.LatLng(30.8, -85.7),
 // Add the snowfall image to the map.
 // var imageLayer = L.imageOverlay('http://amzncache.boston.com/partners/maps/snowfall.png', bounds).addTo(map);
 // var imageLayer = L.imageOverlay('js/snowfall.png', bounds).addTo(map);
-var imageLayer = L.imageOverlay('http://private.boston.com/multimedia/graphics/projectFiles/2015/snowfall/snowfall12.png', bounds).addTo(map);
+var imageLayer = L.imageOverlay('http://cache.boston.com/multimedia/graphics/projectFiles/2015/snowfall/snowfall12.png', bounds).addTo(map);
 
 // Create a Leaflet control for the legend.
 var MyControl = L.Control.extend({
@@ -54,6 +54,17 @@ var MyControl = L.Control.extend({
 if (!Modernizr.touch) {
 	map.addControl(new MyControl());
 }
+
+
+
+
+
+
+
+
+
+
+
 
 // window.colorbar = {};
 // window.pointKml = {};
@@ -141,7 +152,6 @@ function populateUpdatedAt(date) {
 
 	// Populate the 'updated' element.
 	$('.updated-timestamp').html('Updated ' + [APDateTime.time(date), APDateTime.date(date)].join(', '));
-
 }
 
 window.snowfall_scraper = function(json) {
