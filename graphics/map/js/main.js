@@ -30,7 +30,7 @@ var southWest = new L.LatLng(30.8, -85.7),
 // Add the snowfall image to the map.
 // var imageLayer = L.imageOverlay('http://amzncache.boston.com/partners/maps/snowfall.png', bounds).addTo(map);
 // var imageLayer = L.imageOverlay('js/snowfall.png', bounds).addTo(map);
-var imageLayer = L.imageOverlay('http://cache.boston.com/multimedia/graphics/projectFiles/2015/snowfall/snowfall12.png', bounds).addTo(map);
+var imageLayer = L.imageOverlay('http://private.boston.com/multimedia/graphics/projectFiles/2015/snowfall/snowfall12.png', bounds).addTo(map);
 
 // Create a Leaflet control for the legend.
 var MyControl = L.Control.extend({
@@ -55,14 +55,6 @@ if (!Modernizr.touch) {
 	map.addControl(new MyControl());
 }
 
-// // Get the time right now.
-// var date = new Date();
-
-// // Construct a new date with no minutes or seconds.
-// var hourDate = new Date(date.getFullYear(), date.getMonth(), date.getDate(), date.getHours());
-
-// // Populate the 'updated' element.
-// $('.updated-timestamp').html('Updated ' + [APDateTime.time(hourDate), APDateTime.date(hourDate)].join(', '));
 // window.colorbar = {};
 // window.pointKml = {};
 // window.titlePns = {};
@@ -145,7 +137,25 @@ if (!Modernizr.touch) {
 
 
 
+function populateUpdatedAt(date) {
+
+	// Populate the 'updated' element.
+	$('.updated-timestamp').html('Updated ' + [APDateTime.time(date), APDateTime.date(date)].join(', '));
+
+}
+
+window.snowfall_scraper = function(json) {
+
+	var ts = json.timestamp;
+
+	var date = new Date(ts.month + ' ' + ts.day + ', ' + ts.year + ', ' + ts.hour + ':' + ts.minutes + ' ' + ts.mode);
+	populateUpdatedAt(date);
 
 
+};
 
-
+$.ajax({
+	url: 'http://cache.boston.com/partners/snowfallscraper/snowfall_scraper.json',
+	dataType: 'jsonp',
+	jsonpCallback: 'snowfall_scraper'
+});
