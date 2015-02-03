@@ -33,6 +33,7 @@ gulp.task('webpack', function() {
 			externals: { jquery: "jQuery" },
 			module: {
 				loaders: [
+					{ test: /\.js$/, exclude: /node_modules/, loader: '6to5-loader?optional=es6.templateLiterals'},
 					{ test: /\.json$/, loader: 'json-loader' },
 					{ test: /\.jsx$/, loader: 'jsx-loader' },
 					{ test: /\.css$/, loader: 'style-loader!css-loader' }
