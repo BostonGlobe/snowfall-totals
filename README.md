@@ -4,6 +4,14 @@ This project was generated with [generator-globeproject](https://github.com/Bost
 
 Please note: do not reproduce Boston Globe logos or fonts without written permission.
 
+## TODO
+
+- Think about precomputing snowlabels.
+- Move snowlabels off to the right and add a shield.
+- Bump up snowlabel size.
+- Chop off to on decimal point.
+- Consider doing something with snowpoint datetime fields on the feed, otherwise delete.
+
 ## Install
 
 - `npm install`

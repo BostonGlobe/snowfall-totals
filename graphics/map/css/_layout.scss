@@ -86,18 +86,10 @@
 
 		span {
 			@include adjust-font-size-to($s5);
-			// font-family: $sansSerifStrong;
+			font-family: $sansSerifStrong;
 			color: black;
 			text-shadow: white 0 0 5px;
 		}
-
-		// .snowfall {
-		// 	color: white;
-		// }
-
-		// .time {
-		// 	color: white;
-		// }
 	}
 
 	.legend {
