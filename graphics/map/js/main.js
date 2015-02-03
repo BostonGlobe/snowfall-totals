@@ -148,7 +148,7 @@ window.snowfall_scraper = function(json) {
 
 	var ts = json.timestamp;
 
-	var date = new Date(ts.month + ' ' + ts.day + ', ' + ts.year + ', ' + ts.hour + ':' + ts.minutes + ' ' + ts.mode);
+	var date = new Date(`${ts.month} ${ts.day}, ${ts.year}, ${ts.hour}:${ts.minutes} ${ts.mode}`);
 	populateUpdatedAt(date);
 
 
