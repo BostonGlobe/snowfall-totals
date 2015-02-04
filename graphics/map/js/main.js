@@ -10,12 +10,7 @@ var $map = $('.content .map', master);
 var map = L.map($map.get(0), {
 	attributionControl: false,
 	scrollWheelZoom: false
-// }).setView([42.25841962, -71.81532837], 6);
-}).setView([42.25841962, -76], 8);
-// }).setView([42.30169032824452, -70.9061050415039], 11);
-
-// 42.30169032824452;
-// 	json.snowfall_points[0].longitude = -70.9061050415039
+}).setView([42.25841962, -71.81532837], 6);
 
 // Add the MapBox baselayer to our map.
 L.tileLayer('http://{s}.tiles.mapbox.com/v3/gabriel-florit.36cf07a4/{z}/{x}/{y}.png', {
@@ -54,7 +49,6 @@ if (!Modernizr.touch) {
 }
 
 function intersectRect(r1, r2) {
-	// return false;
 	return !(r2.left > r1.right || 
 	r2.right < r1.left || 
 	r2.top > r1.bottom ||
@@ -109,7 +103,14 @@ function addMarkersToMap(zoom) {
 	// find the absolute pixel coordinates for the given zoom level
 	// assuming we're center aligning the point,
 	// find the point's bounding box in pixel coordinates
-	allPoints.forEach(function(point, index) {
+	_.chain(allPoints)
+	.sortBy(function(v, i) {
+		return -(+v.latitude);
+	})
+	.sortBy(function(v, i) {
+		return (+v.longitude);
+	})
+	.forEach(function(point, index) {
 
 		var pointCoords = map.project([point.latitude, point.longitude]);
 
@@ -150,12 +151,13 @@ function addMarkersToMap(zoom) {
 			markers.push(marker);
 
 		}
-
 	});
 
 	if (markersLayer) {
 		map.removeLayer(markersLayer);
 	}
+
+	console.log(markers.length);
 
 	markersLayer = L.layerGroup(markers);
 

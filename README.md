@@ -9,7 +9,6 @@ Please note: do not reproduce Boston Globe logos or fonts without written permis
 - Think about precomputing snowlabels.
 - Add panning boundaries on the leaflet map.
 - Make sure the feed isn't returning points with too much lat/lng precision.
-- Consider ordering the labels from SW to NE before doing collision detection, this might improve the layout.
 
 ## Install
 
