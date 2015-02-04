@@ -69,7 +69,6 @@
 
 	.leaflet-container {
 	    background: #FFF;
-		// background: #4d004b;
 	}
 
 	.leaflet-overlay-pane {
@@ -82,13 +81,39 @@
 	}
 
 	.leaflet-marker-icon.snowfall {
-		text-align: center;
 
-		span {
+		span.wrapper {
 			@include adjust-font-size-to($s5);
+			@include adjust-leading-to(1);
 			font-family: $sansSerifStrong;
 			color: black;
 			text-shadow: white 0 0 5px;
+			position: relative;
+
+			top: -0.9em;
+			left: -0.2em;
+
+			&._zoom7 {
+			}
+
+			&._zoom8 {
+				@include adjust-font-size-to($s6);
+				top: -1em;
+			}
+
+			&._zoom9 {
+				@include adjust-font-size-to($s6);
+				top: -1em;
+			}
+
+			&._zoom10 {
+				@include adjust-font-size-to($s7);
+				top: -0.8em;
+			}
+		}
+
+		span.shield {
+			@include adjust-font-size-to($s3);
 		}
 	}
 

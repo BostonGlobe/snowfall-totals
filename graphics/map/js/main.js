@@ -10,12 +10,17 @@ var $map = $('.content .map', master);
 var map = L.map($map.get(0), {
 	attributionControl: false,
 	scrollWheelZoom: false
-}).setView([42.25841962, -71.81532837], 7);
+// }).setView([42.25841962, -71.81532837], 6);
+}).setView([42.25841962, -76], 8);
+// }).setView([42.30169032824452, -70.9061050415039], 11);
+
+// 42.30169032824452;
+// 	json.snowfall_points[0].longitude = -70.9061050415039
 
 // Add the MapBox baselayer to our map.
 L.tileLayer('http://{s}.tiles.mapbox.com/v3/gabriel-florit.36cf07a4/{z}/{x}/{y}.png', {
-	minZoom: 5,
-	maxZoom: 11
+	minZoom: 6,
+	maxZoom: 10
 }).addTo(map);
 
 // Define the snowfall image bounds.
@@ -48,94 +53,13 @@ if (!Modernizr.touch) {
 	map.addControl(new MyControl());
 }
 
-
-
-
-
-
-
-
-
-
-
-
-// window.colorbar = {};
-// window.pointKml = {};
-// window.titlePns = {};
-// window.image = {};
-// window.masterKmlFile = {};
-// $.getScript('http://www.erh.noaa.gov/hydromet/eventdata/stormTotalv3_24/latestInfo.js', function(e) {
-
-// 	debugger;
-
-// });
-
-
-
-
-
-
-// var points = require('./points.json');
-
-
-
-// // for each point,
-// // find the absolute pixel coordinates for the given zoom level
-// // assuming we're center aligning the point,
-// // find the point's bounding box in pixel coordinates
-// points.forEach(function(point, index) {
-
-// 	var pointCoords = map.project([point.latitude, point.longitude]);
-
-// 	var pointBBox = {
-// 		left: pointCoords.x - ICON_WIDTH/2,
-// 		right: pointCoords.x + ICON_WIDTH/2,
-// 		bottom: pointCoords.y + ICON_HEIGHT/2,
-// 		top: pointCoords.y - ICON_HEIGHT/2
-// 	};
-
-// 	// make sure this bbox doesn't overlap with any existing markers
-// 	var overlaps = _.some(markers, function(marker) {
-
-// 		var markerCoords = map.project(marker._latlng);
-
-// 		var markerBBox = {
-// 			left: markerCoords.x - ICON_WIDTH/2,
-// 			right: markerCoords.x + ICON_WIDTH/2,
-// 			bottom: markerCoords.y + ICON_HEIGHT/2,
-// 			top: markerCoords.y - ICON_HEIGHT/2
-// 		};
-
-// 		return intersectRect(pointBBox, markerBBox);
-// 	});
-
-// 	// if it doesn't overlap, add to markers layer
-// 	if (!overlaps) {
-
-// 		var icon = L.divIcon({
-// 			html: '<span>' + point.snowfall + '”</span>',
-// 			className: 'snowfall',
-// 			iconSize: 100
-// 		});
-
-// 		var marker = L.marker([point.latitude, point.longitude], {icon: icon});
-// 		markers.push(marker);
-
-// 	}
-
-// });
-
-// L.layerGroup(markers).addTo(map);
-
-
-
 function intersectRect(r1, r2) {
+	// return false;
 	return !(r2.left > r1.right || 
 	r2.right < r1.left || 
 	r2.top > r1.bottom ||
 	r2.bottom < r1.top);
 }
-
 
 function populateUpdatedAt(date) {
 
@@ -143,13 +67,41 @@ function populateUpdatedAt(date) {
 	$('.updated-timestamp').html('Updated ' + [APDateTime.time(date), APDateTime.date(date)].join(', '));
 }
 
-var ICON_WIDTH = 38 + 10;
-var ICON_HEIGHT = 18 + 10;
+function getIconDimensions(zoom) {
+
+	return {
+		6: {
+			width: 36,
+			height: 21
+		},
+		7: {
+			width: 36,
+			height: 21
+		},
+		8: {
+			width: 48,
+			height: 27
+		},
+		9: {
+			width: 48,
+			height: 27
+		},
+		10: {
+			width: 64,
+			height: 36
+		}
+	}[zoom];
+}
 
 var markersLayer;
 var allPoints;
 
-function addMarkersToMap() {
+function addMarkersToMap(zoom) {
+
+	var iconDimensions = getIconDimensions(zoom);
+
+	var ICON_WIDTH = iconDimensions.width;
+	var ICON_HEIGHT = iconDimensions.height;
 
 	var markers = [];
 
@@ -187,12 +139,14 @@ function addMarkersToMap() {
 		if (!overlaps) {
 
 			var icon = L.divIcon({
-				html: '<span>' + point.snowfall + '”</span>',
-				className: 'snowfall',
-				iconSize: 100
+				html: '<span class="wrapper _zoom' + zoom + '"><span class="shield">&#9679;</span><span class="label">' + point.snowfall + '”</span></span>',
+				className: 'snowfall'
 			});
 
-			var marker = L.marker([point.latitude, point.longitude], {icon: icon});
+			var marker = L.marker([point.latitude, point.longitude], {
+				icon: icon,
+				clickable: false
+			});
 			markers.push(marker);
 
 		}
@@ -209,7 +163,7 @@ function addMarkersToMap() {
 }
 
 map.on('zoomend', function(e) {
-	addMarkersToMap();
+	addMarkersToMap(map.getZoom());
 });
 
 window.snowfall_scraper = function(json) {
@@ -220,7 +174,7 @@ window.snowfall_scraper = function(json) {
 	populateUpdatedAt(date);
 
 	allPoints = json.snowfall_points;
-	addMarkersToMap();
+	addMarkersToMap(map.getZoom());
 };
 
 $.ajax({
