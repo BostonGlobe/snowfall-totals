@@ -18,13 +18,13 @@ var map = L.map($map.get(0), {
 
 // Add the MapBox baselayer to our map.
 L.tileLayer('http://{s}.tiles.mapbox.com/v3/gabriel-florit.36cf07a4/{z}/{x}/{y}.png', {
-	minZoom: 4,
+	minZoom: 6,
 	maxZoom: 10
 }).addTo(map);
 
 // Define the snowfall image bounds.
 var customBounds = [[30.8, -85.7], [47.58, -67]]; // we came up with these after much tweaking
-var sourceBounds = [[31, -85.5, ], [47.5, -67]]; // this is what the National Weather Service uses
+// var sourceBounds = [[31, -85.5, ], [47.5, -67]]; // this is what the National Weather Service uses
 
 // Add the snowfall image to the map.
 var imageLayer = L.imageOverlay('http://amzncache.boston.com/partners/maps/snowfall.png', customBounds).addTo(map);
@@ -161,8 +161,6 @@ function addMarkersToMap(zoom) {
 		map.removeLayer(markersLayer);
 	}
 
-	console.log(markers.length);
-
 	markersLayer = L.layerGroup(markers);
 
 	markersLayer.addTo(map);
@@ -170,10 +168,6 @@ function addMarkersToMap(zoom) {
 
 map.on('zoomend', function(e) {
 	addMarkersToMap(map.getZoom());
-});
-
-map.on('click', function(e) {
-	console.log(e.latlng);
 });
 
 window.snowfall_scraper = function(json) {

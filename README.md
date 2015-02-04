@@ -4,11 +4,6 @@ This project was generated with [generator-globeproject](https://github.com/Bost
 
 Please note: do not reproduce Boston Globe logos or fonts without written permission.
 
-## TODO
-
-- Think about precomputing snowlabels.
-- Make sure the feed isn't returning points with too much lat/lng precision.
-
 ## Install
 
 - `npm install`
