@@ -9,12 +9,16 @@ var $map = $('.content .map', master);
 // Create the Leaflet map.
 var map = L.map($map.get(0), {
 	attributionControl: false,
-	scrollWheelZoom: false
+	scrollWheelZoom: false,
+	maxBounds: [
+		[24, -93],
+		[51, -60]
+	]
 }).setView([42.25841962, -71.81532837], 6);
 
 // Add the MapBox baselayer to our map.
 L.tileLayer('http://{s}.tiles.mapbox.com/v3/gabriel-florit.36cf07a4/{z}/{x}/{y}.png', {
-	minZoom: 6,
+	minZoom: 4,
 	maxZoom: 10
 }).addTo(map);
 
@@ -166,6 +170,10 @@ function addMarkersToMap(zoom) {
 
 map.on('zoomend', function(e) {
 	addMarkersToMap(map.getZoom());
+});
+
+map.on('click', function(e) {
+	console.log(e.latlng);
 });
 
 window.snowfall_scraper = function(json) {
