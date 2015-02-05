@@ -69,23 +69,23 @@ function getIconDimensions(zoom) {
 
 	return {
 		6: {
-			width: 36,
+			width: 42,
 			height: 21
 		},
 		7: {
-			width: 36,
+			width: 42,
 			height: 21
 		},
 		8: {
-			width: 48,
+			width: 55,
 			height: 27
 		},
 		9: {
-			width: 48,
+			width: 55,
 			height: 27
 		},
 		10: {
-			width: 64,
+			width: 73,
 			height: 36
 		}
 	}[zoom];
