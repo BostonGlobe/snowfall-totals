@@ -90,30 +90,17 @@
 			text-shadow: white 0 0 5px;
 			position: relative;
 
-			top: -0.9em;
-			left: -0.2em;
-
-			&._zoom7 {
-			}
-
 			&._zoom8 {
 				@include adjust-font-size-to($s6);
-				top: -1em;
 			}
 
 			&._zoom9 {
 				@include adjust-font-size-to($s6);
-				top: -1em;
 			}
 
 			&._zoom10 {
 				@include adjust-font-size-to($s7);
-				top: -0.8em;
 			}
-		}
-
-		span.shield {
-			@include adjust-font-size-to($s3);
 		}
 	}
 

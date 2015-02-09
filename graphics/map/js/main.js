@@ -69,23 +69,23 @@ function getIconDimensions(zoom) {
 
 	return {
 		6: {
-			width: 42,
+			width: 34,
 			height: 21
 		},
 		7: {
-			width: 42,
+			width: 34,
 			height: 21
 		},
 		8: {
-			width: 55,
+			width: 45,
 			height: 27
 		},
 		9: {
-			width: 55,
+			width: 45,
 			height: 27
 		},
 		10: {
-			width: 73,
+			width: 60,
 			height: 36
 		}
 	}[zoom];
@@ -113,6 +113,9 @@ function addMarkersToMap(zoom) {
 	})
 	.sortBy(function(v, i) {
 		return (+v.longitude);
+	})
+	.sortBy(function(v, i) {
+		return -(+v.snowfall);
 	})
 	.forEach(function(point, index) {
 
@@ -144,7 +147,7 @@ function addMarkersToMap(zoom) {
 		if (!overlaps) {
 
 			var icon = L.divIcon({
-				html: '<span class="wrapper _zoom' + zoom + '"><span class="shield">&#9679;</span><span class="label">' + point.snowfall + '”</span></span>',
+				html: '<span class="wrapper _zoom' + zoom + '"><span class="label">' + point.snowfall + '”</span></span>',
 				className: 'snowfall'
 			});
 
