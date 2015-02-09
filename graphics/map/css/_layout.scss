@@ -81,6 +81,7 @@
 	}
 
 	.leaflet-marker-icon.snowfall {
+		text-align: center;
 
 		span.wrapper {
 			@include adjust-font-size-to($s5);
@@ -89,17 +90,21 @@
 			color: black;
 			text-shadow: white 0 0 5px;
 			position: relative;
+			top: -0.8em;
 
 			&._zoom8 {
 				@include adjust-font-size-to($s6);
+				top: -0.8em;
 			}
 
 			&._zoom9 {
 				@include adjust-font-size-to($s6);
+				top: -0.8em;
 			}
 
 			&._zoom10 {
 				@include adjust-font-size-to($s7);
+				top: -0.7em;
 			}
 		}
 	}
