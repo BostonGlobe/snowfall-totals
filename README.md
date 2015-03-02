@@ -4,6 +4,10 @@ This project was generated with [generator-globeproject](https://github.com/Bost
 
 Please note: do not reproduce Boston Globe logos or fonts without written permission.
 
+## Location
+
+- `/Boston/Content/Metro/WebGraphics/2014/01/06snowfall/06snowfall.jpt`
+
 ## Install
 
 - `npm install`
