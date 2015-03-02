@@ -61,8 +61,12 @@ function intersectRect(r1, r2) {
 
 function populateUpdatedAt(date) {
 
-	// Populate the 'updated' element.
-	$('.updated-timestamp').html('Updated ' + [APDateTime.time(date), APDateTime.date(date)].join(', '));
+	if (date) {
+		// Populate the 'updated' element.
+		$('.updated-timestamp').html('Updated ' + [APDateTime.time(date), APDateTime.date(date)].join(', '));
+	} else {
+		$('.updated-timestamp').html('Updated timestamp not available.');
+	}
 }
 
 function getIconDimensions(zoom) {
@@ -176,9 +180,14 @@ map.on('zoomend', function(e) {
 window.snowfall_scraper = function(json) {
 
 	var ts = json.timestamp;
+	var date;
 
-	var date = new Date(`${ts.month} ${ts.day}, ${ts.year}, ${ts.hour}:${ts.minutes} ${ts.mode}`);
-	populateUpdatedAt(date);
+	if (ts) {
+		date = new Date(`${ts.month} ${ts.day}, ${ts.year}, ${ts.hour}:${ts.minutes} ${ts.mode}`);
+		populateUpdatedAt(date);
+	} else {
+		populateUpdatedAt(null);
+	}
 
 	allPoints = json.snowfall_points;
 	addMarkersToMap(map.getZoom());
